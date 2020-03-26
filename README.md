@@ -1,6 +1,15 @@
 # FocusVision ML tools
 A place to gather useful links and knowledge 
 
+
+# General Statistics/Info
+
+Why every statistician should know about [cross-validation] (https://robjhyndman.com/hyndsight/crossvalidation/)
+
+Computational Complexity of learning [algorithms] (https://www.thekerneltrip.com/machine/learning/computational-complexity-learning-algorithms/)
+
+tSNE vs [PCA] (https://www.thekerneltrip.com/statistics/tsne-vs-pca/)
+
 # Neural Networks
 
 ## General Info
@@ -105,7 +114,6 @@ Mozilla's Common Voice [dataset](https://voice.mozilla.org/en/datasets)
 
 # Machine Learning Journal Club
 
-slack chanel #ml-reading-group
 
 Tree [LSTM](https://arxiv.org/abs/1503.00075) (Tate)
 
